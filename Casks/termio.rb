@@ -1,6 +1,6 @@
 cask "termio" do
-  version "0.24.0"
-  sha256 "6d2aa9e41182b91d1ad0a33f9b4988e9b21f8e4e2fa2feef7dc22e6847b984ab"
+  version "0.25.0"
+  sha256 "fb6d5836a72e6be5a4ec0ce666a9ee441d3d1e0e3f3b1a8406d0511d9bbefd12"
 
   url "https://downloads.termio.sh/v#{version}/termio.dmg"
   name "termio"
